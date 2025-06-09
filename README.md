@@ -31,6 +31,11 @@ This is a simple **Flappy Bird clone** built using the Unity Engine. The game re
 
 ---
 
+## 📦 Download & Play
+Find the Windows build under the [Releases](https://github.com/Youssef-Elhelw/IFlappy-Bird/releases) tab.
+
+---
+
 ## 🚀 How to Run
 
 To play or edit this game:
@@ -39,3 +44,8 @@ To play or edit this game:
 2. Open the folder in **Unity Hub**.
 3. Open the project in Unity.
 4. Click **Play** to run the game.
+
+---
+
+## 👨‍💻 Author
+Made by [Youssef Elhelw](https://github.com/Youssef-Elhelw)
